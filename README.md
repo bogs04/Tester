@@ -33,7 +33,7 @@ The test cases cover functional logic, input field constraints, security checks,
     *   Negative paths (SQL Injection attempts in inputs, empty fields, password mismatch)
     *   UI/UX verification (Responsive layouts on mobile view, button active states)
 
-> 🔗 **[Click here to view the Full Test Cases Spreadsheet (Google Sheets)]** *(Note: Replace with your actual Google Sheets Link)*
+> 🔗 **[Click here to view the Full Test Cases Spreadsheet [(https://docs.google.com/spreadsheets/d/18EAQomd-duRVrmQs-wUx-cb_PvkB3trK_EuuC7H1Ycc/edit?usp=sharing))]** 
 
 ---
 
